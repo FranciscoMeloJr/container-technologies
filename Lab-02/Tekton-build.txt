@@ -1,0 +1,4 @@
+### Example
+
+In the Developer blog post I describe build config and Tekton builds: 
+https://developers.redhat.com/articles/2024/06/12/4-ways-deploy-quarkus-applications-openshift-container-platform-4?auHash=KMRpR8Gx33KbC69FdCYbc-DIGb-2t0PUFwxrkQwDPIc&source=sso
